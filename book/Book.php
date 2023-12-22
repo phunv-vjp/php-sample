@@ -19,7 +19,7 @@
   }
 
   function getId() {
-    return this->Id;
+    return $this->id;
   }
 
   function setTitle($title) {
