@@ -1,6 +1,6 @@
 <?php
-
-$servername = "localhost";
+// chu y servename. co the ko phai localhost.  select @@hostname;
+$servername = "PhuNV-MacPro.local";
 $username = "phu";
 $password = "phu";
 $dbname = "testDb";
