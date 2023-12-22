@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET["id"])) {
 
     if ($conn->query($sql) === TRUE) {
         echo "Deleted!";
-        sleep(3); // waiting 3s
+        //sleep(1); // waiting 1s
 
         // Redirect to homepage!
         header("Location: BookController.php");

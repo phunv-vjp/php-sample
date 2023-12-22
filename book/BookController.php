@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Book Management</h1>
-ß
+
     <?php
 
     // require_once('Book.php');
